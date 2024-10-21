@@ -1,0 +1,38 @@
+header{
+    background-color: aqua;
+    padding: 10px;
+    position: fixed;
+    top: 0%;
+    width: 100%;
+    text-align: center;
+}
+.container{
+    position: relative;
+   margin-top: 0%;
+    z-index: -1;
+}
+.left-coloumn{
+    position: absolute;
+    padding-top: 90px;
+    /* border-top: 10%; */
+    margin-top: 0%;
+   
+    
+}
+.right-coloum{
+
+    float: right;
+    padding-top:90px;
+    margin-top: 0%;
+  
+
+}
+.virat-kohli{
+    padding-top: 350px;
+    padding-left: 180px;
+    border-radius: 10%;
+
+}
+.virat{
+    border-radius: 10%;
+}
